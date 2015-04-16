@@ -1,0 +1,2 @@
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\Content\obj\x86\Release\ResolveAssemblyReference.cache

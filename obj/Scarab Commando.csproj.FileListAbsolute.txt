@@ -1,0 +1,40 @@
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Scarab Commando.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Scarab Commando.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Debug\Scarab_Commando.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Debug\Scarab Commando.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Debug\Scarab Commando.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\pyramid.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\scarab.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\fireball.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\desert.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\gundam.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\expmenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\meteor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\hadouken.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\Courier New.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\mainscreen.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\genkidama.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\goku.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\gundamsheet.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\fireball.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\expmenor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\meteor.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\scarab.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\desert.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\gundam.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\mainscreen.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\hadouken.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\genkidama.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\goku.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\pyramid.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\gundamsheet.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Content\Courier New.xnb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Scarab Commando.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\bin\x86\Release\Scarab Commando.pdb
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Release\Scarab_Commando.obj.x86.Release.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Release\Scarab Commando.exe
+C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2005\Projects\Scarab Commando\Scarab Commando\obj\x86\Release\Scarab Commando.pdb

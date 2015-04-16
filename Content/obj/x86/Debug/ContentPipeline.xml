@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fireball.png</Source>
+      <Name>fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\fireball.xnb</Output>
+      <Time>2008-07-16T03:35:12.40625-03:00</Time>
+    </Item>
+    <Item>
+      <Source>expmenor.png</Source>
+      <Name>expmenor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\expmenor.xnb</Output>
+      <Time>2008-07-16T04:19:26.96875-03:00</Time>
+    </Item>
+    <Item>
+      <Source>meteor.png</Source>
+      <Name>meteor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\meteor.xnb</Output>
+      <Time>2008-07-16T04:27:32.5-03:00</Time>
+    </Item>
+    <Item>
+      <Source>scarab.png</Source>
+      <Name>scarab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\scarab.xnb</Output>
+      <Time>2008-07-16T05:25:12.125-03:00</Time>
+    </Item>
+    <Item>
+      <Source>desert.png</Source>
+      <Name>desert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\desert.xnb</Output>
+      <Time>2008-07-16T15:07:32.421875-03:00</Time>
+    </Item>
+    <Item>
+      <Source>gundam.png</Source>
+      <Name>gundam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\gundam.xnb</Output>
+      <Time>2008-07-16T15:17:52.796875-03:00</Time>
+    </Item>
+    <Item>
+      <Source>mainscreen.png</Source>
+      <Name>mainscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\mainscreen.xnb</Output>
+      <Time>2008-07-16T17:20:55.734375-03:00</Time>
+    </Item>
+    <Item>
+      <Source>hadouken.png</Source>
+      <Name>hadouken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\hadouken.xnb</Output>
+      <Time>2008-07-17T00:51:27.234375-03:00</Time>
+    </Item>
+    <Item>
+      <Source>genkidama.png</Source>
+      <Name>genkidama</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\genkidama.xnb</Output>
+      <Time>2008-07-18T00:31:33.4375-03:00</Time>
+    </Item>
+    <Item>
+      <Source>goku.png</Source>
+      <Name>goku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\goku.xnb</Output>
+      <Time>2008-07-18T00:31:40.046875-03:00</Time>
+    </Item>
+    <Item>
+      <Source>pyramid.png</Source>
+      <Name>pyramid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\pyramid.xnb</Output>
+      <Time>2008-07-18T04:39:25.734375-03:00</Time>
+    </Item>
+    <Item>
+      <Source>gundamsheet.png</Source>
+      <Name>gundamsheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\gundamsheet.xnb</Output>
+      <Time>2009-10-11T16:38:31.171875-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier New.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2008-07-16T16:40:58-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Sandro\Meus documentos\Visual Studio 2008\Projects\Scarab Commando\Scarab Commando\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-08-20T20:23:18.046875-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
